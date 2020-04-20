@@ -21,4 +21,4 @@ Create a multi-stage Dockerfile for a simple python script containing Matplot an
 
 ## Exercise 3
 
-Generate a Docker image named "exercise3" and push it to the AWS Elastic Container Registry (ECR). Take a screenshort of the repository at the web console and add the screeenshot file to this repository.
+Generate a Docker image named "exercise3" and push it to the AWS Elastic Container Registry (ECR). Take a screenshot of the repository at the web console and add the picture to this repository.
